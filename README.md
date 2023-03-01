@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ridwan</h1>
 <h3 align="center">Junior Web Developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wannn2p&label=Profile%20views&color=0e75b6&style=flat" alt="wannn2p" /> </p>
 
 - ⚡ Fun fact **I am Beginner**
 
