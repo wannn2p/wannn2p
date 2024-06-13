@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ridwan</h1>
-<h3 align="center">Junior Web Developer from Indonesia</h3>
+<h3 align="center">Junior Front-End Web Developer from Indonesia</h3>
 
 <img src="https://raw.githubusercontent.com/wannn2p/wannn2p/main/giphy.gif" alt="coding" width="400" align="right">
 
